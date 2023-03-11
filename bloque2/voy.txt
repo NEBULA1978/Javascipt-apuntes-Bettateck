@@ -1,0 +1,1 @@
+voy modulo 2 bucles for in y for of
